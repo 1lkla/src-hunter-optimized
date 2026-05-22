@@ -1,0 +1,15 @@
+{
+  "weakness": "modification-of-assumed-immutable-data-maid",
+  "report_count": 9,
+  "report_ids": [
+    968355,
+    871156,
+    980649,
+    910206,
+    878394,
+    877515,
+    878339,
+    878332,
+    801522
+  ]
+}

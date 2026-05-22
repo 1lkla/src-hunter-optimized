@@ -1,0 +1,7 @@
+{
+  "weakness": "reusing-a-nonce-key-pair-in-encryption",
+  "report_count": 1,
+  "report_ids": [
+    1304490
+  ]
+}

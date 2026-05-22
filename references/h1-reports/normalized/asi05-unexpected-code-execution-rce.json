@@ -1,0 +1,7 @@
+{
+  "weakness": "asi05-unexpected-code-execution-rce",
+  "report_count": 1,
+  "report_ids": [
+    3712343
+  ]
+}

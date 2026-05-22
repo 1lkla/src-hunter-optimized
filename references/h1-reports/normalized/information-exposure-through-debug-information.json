@@ -1,0 +1,11 @@
+{
+  "weakness": "information-exposure-through-debug-information",
+  "report_count": 5,
+  "report_ids": [
+    2928785,
+    963921,
+    697512,
+    519418,
+    503283
+  ]
+}

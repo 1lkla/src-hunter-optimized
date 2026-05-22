@@ -1,0 +1,8 @@
+{
+  "weakness": "key-exchange-without-entity-authentication",
+  "report_count": 2,
+  "report_ids": [
+    2642615,
+    319480
+  ]
+}

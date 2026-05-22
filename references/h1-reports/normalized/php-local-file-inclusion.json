@@ -1,0 +1,7 @@
+{
+  "weakness": "php-local-file-inclusion",
+  "report_count": 1,
+  "report_ids": [
+    1624670
+  ]
+}

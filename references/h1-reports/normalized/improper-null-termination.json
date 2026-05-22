@@ -1,0 +1,11 @@
+{
+  "weakness": "improper-null-termination",
+  "report_count": 5,
+  "report_ids": [
+    2101076,
+    1178337,
+    709072,
+    536954,
+    419896
+  ]
+}

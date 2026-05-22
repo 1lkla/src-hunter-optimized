@@ -1,0 +1,8 @@
+{
+  "weakness": "xml-injection",
+  "report_count": 2,
+  "report_ids": [
+    1150799,
+    997381
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "weakness": "reliance-on-cookies-without-validation-and-integrity-checking-in-a-security-decision",
+  "report_count": 3,
+  "report_ids": [
+    1464396,
+    993711,
+    215859
+  ]
+}

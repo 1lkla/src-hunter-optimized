@@ -1,0 +1,9 @@
+{
+  "weakness": "time-of-check-time-of-use-toctou-race-condition",
+  "report_count": 3,
+  "report_ids": [
+    3335085,
+    1520931,
+    300305
+  ]
+}

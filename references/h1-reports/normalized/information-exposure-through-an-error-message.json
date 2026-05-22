@@ -1,0 +1,9 @@
+{
+  "weakness": "information-exposure-through-an-error-message",
+  "report_count": 3,
+  "report_ids": [
+    2748003,
+    710813,
+    460545
+  ]
+}

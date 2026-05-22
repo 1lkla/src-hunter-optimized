@@ -1,0 +1,8 @@
+{
+  "weakness": "relative-path-traversal",
+  "report_count": 2,
+  "report_ids": [
+    2200329,
+    3293177
+  ]
+}

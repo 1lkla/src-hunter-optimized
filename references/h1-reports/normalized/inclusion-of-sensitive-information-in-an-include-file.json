@@ -1,0 +1,7 @@
+{
+  "weakness": "inclusion-of-sensitive-information-in-an-include-file",
+  "report_count": 1,
+  "report_ids": [
+    3228011
+  ]
+}

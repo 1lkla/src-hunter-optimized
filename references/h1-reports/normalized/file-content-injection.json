@@ -1,0 +1,7 @@
+{
+  "weakness": "file-content-injection",
+  "report_count": 1,
+  "report_ids": [
+    3414079
+  ]
+}

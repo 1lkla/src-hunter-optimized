@@ -1,0 +1,10 @@
+{
+  "weakness": "information-exposure-through-sent-data",
+  "report_count": 4,
+  "report_ids": [
+    3485826,
+    3480713,
+    2946924,
+    1444539
+  ]
+}

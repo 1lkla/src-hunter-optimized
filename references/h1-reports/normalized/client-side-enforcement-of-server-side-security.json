@@ -1,0 +1,10 @@
+{
+  "weakness": "client-side-enforcement-of-server-side-security",
+  "report_count": 4,
+  "report_ids": [
+    2043885,
+    1635748,
+    1605847,
+    1633231
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "weakness": "blind-sql-injection",
+  "report_count": 1,
+  "report_ids": [
+    2051931
+  ]
+}

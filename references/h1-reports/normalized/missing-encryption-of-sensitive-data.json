@@ -1,0 +1,9 @@
+{
+  "weakness": "missing-encryption-of-sensitive-data",
+  "report_count": 3,
+  "report_ids": [
+    2097517,
+    506040,
+    640904
+  ]
+}

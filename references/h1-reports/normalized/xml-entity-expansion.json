@@ -1,0 +1,7 @@
+{
+  "weakness": "xml-entity-expansion",
+  "report_count": 1,
+  "report_ids": [
+    506791
+  ]
+}

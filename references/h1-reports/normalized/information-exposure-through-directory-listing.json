@@ -1,0 +1,18 @@
+{
+  "weakness": "information-exposure-through-directory-listing",
+  "report_count": 12,
+  "report_ids": [
+    3509437,
+    2784712,
+    1948562,
+    1316412,
+    778931,
+    490379,
+    486933,
+    432600,
+    330650,
+    330724,
+    308721,
+    278225
+  ]
+}

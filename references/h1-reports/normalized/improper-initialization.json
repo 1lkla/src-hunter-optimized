@@ -1,0 +1,7 @@
+{
+  "weakness": "improper-initialization",
+  "report_count": 1,
+  "report_ids": [
+    3405778
+  ]
+}

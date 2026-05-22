@@ -1,0 +1,11 @@
+{
+  "weakness": "path-traversal",
+  "report_count": 5,
+  "report_ids": [
+    3181066,
+    2375666,
+    1626210,
+    1377748,
+    1404731
+  ]
+}

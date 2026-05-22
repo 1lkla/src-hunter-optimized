@@ -1,0 +1,7 @@
+{
+  "weakness": "use-of-a-key-past-its-expiration-date",
+  "report_count": 1,
+  "report_ids": [
+    218287
+  ]
+}

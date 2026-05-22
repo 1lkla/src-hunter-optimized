@@ -1,0 +1,8 @@
+{
+  "weakness": "reliance-on-untrusted-inputs-in-a-security-decision",
+  "report_count": 2,
+  "report_ids": [
+    3120969,
+    759454
+  ]
+}

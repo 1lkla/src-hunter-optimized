@@ -1,0 +1,7 @@
+{
+  "weakness": "llm01-prompt-injection",
+  "report_count": 1,
+  "report_ids": [
+    3086301
+  ]
+}

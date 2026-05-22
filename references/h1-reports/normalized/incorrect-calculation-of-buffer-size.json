@@ -1,0 +1,8 @@
+{
+  "weakness": "incorrect-calculation-of-buffer-size",
+  "report_count": 2,
+  "report_ids": [
+    263663,
+    1340942
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "weakness": "session-fixation",
+  "report_count": 2,
+  "report_ids": [
+    1560324,
+    1150573
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "weakness": "use-of-cache-containing-sensitive-information",
+  "report_count": 1,
+  "report_ids": [
+    1698316
+  ]
+}

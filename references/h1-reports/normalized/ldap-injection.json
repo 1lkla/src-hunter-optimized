@@ -1,0 +1,8 @@
+{
+  "weakness": "ldap-injection",
+  "report_count": 2,
+  "report_ids": [
+    906959,
+    907311
+  ]
+}

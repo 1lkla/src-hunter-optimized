@@ -1,0 +1,8 @@
+{
+  "weakness": "missing-authentication-for-critical-function",
+  "report_count": 2,
+  "report_ids": [
+    1608151,
+    739737
+  ]
+}

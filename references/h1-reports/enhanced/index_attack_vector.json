@@ -1,0 +1,32 @@
+{
+  "rce": [
+    ""
+  ],
+  "info-disclosure": [
+    ""
+  ],
+  "sqli": [
+    ""
+  ],
+  "xss": [
+    ""
+  ],
+  "auth-bypass": [
+    ""
+  ],
+  "ssrf": [
+    ""
+  ],
+  "csrf": [
+    ""
+  ],
+  "idor": [
+    ""
+  ],
+  "path-traversal": [
+    ""
+  ],
+  "xxe": [
+    ""
+  ]
+}

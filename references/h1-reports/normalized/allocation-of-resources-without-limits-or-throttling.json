@@ -1,0 +1,9 @@
+{
+  "weakness": "allocation-of-resources-without-limits-or-throttling",
+  "report_count": 3,
+  "report_ids": [
+    3125820,
+    3158093,
+    712065
+  ]
+}

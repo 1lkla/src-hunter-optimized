@@ -1,0 +1,7 @@
+{
+  "weakness": "use-of-cryptographically-weak-pseudo-random-number-generator-prng",
+  "report_count": 1,
+  "report_ids": [
+    1690000
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "weakness": "null-pointer-dereference",
+  "report_count": 8,
+  "report_ids": [
+    2585375,
+    2171309,
+    1540907,
+    1688309,
+    335608,
+    247027,
+    245221,
+    221287
+  ]
+}

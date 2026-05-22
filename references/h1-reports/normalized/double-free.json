@@ -1,0 +1,11 @@
+{
+  "weakness": "double-free",
+  "report_count": 5,
+  "report_ids": [
+    3320669,
+    1549636,
+    943231,
+    875775,
+    347282
+  ]
+}

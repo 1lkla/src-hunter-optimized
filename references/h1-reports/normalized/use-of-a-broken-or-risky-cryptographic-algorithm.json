@@ -1,0 +1,8 @@
+{
+  "weakness": "use-of-a-broken-or-risky-cryptographic-algorithm",
+  "report_count": 2,
+  "report_ids": [
+    2142109,
+    1113663
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "weakness": "file-and-directory-information-exposure",
+  "report_count": 2,
+  "report_ids": [
+    695005,
+    192321
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "weakness": "improper-handling-of-url-encoding-hex-encoding",
+  "report_count": 1,
+  "report_ids": [
+    824753
+  ]
+}

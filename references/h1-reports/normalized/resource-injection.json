@@ -1,0 +1,10 @@
+{
+  "weakness": "resource-injection",
+  "report_count": 4,
+  "report_ids": [
+    3062122,
+    1533976,
+    1409788,
+    501585
+  ]
+}

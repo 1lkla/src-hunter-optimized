@@ -1,0 +1,8 @@
+{
+  "weakness": "external-control-of-critical-state-data",
+  "report_count": 2,
+  "report_ids": [
+    1555440,
+    853284
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "weakness": "array-index-underflow",
+  "report_count": 6,
+  "report_ids": [
+    1812732,
+    825091,
+    876719,
+    987090,
+    513154,
+    365968
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "weakness": "missing-required-cryptographic-step",
+  "report_count": 2,
+  "report_ids": [
+    3463949,
+    363680
+  ]
+}

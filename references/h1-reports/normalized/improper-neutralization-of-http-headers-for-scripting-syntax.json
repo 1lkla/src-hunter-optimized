@@ -1,0 +1,7 @@
+{
+  "weakness": "improper-neutralization-of-http-headers-for-scripting-syntax",
+  "report_count": 1,
+  "report_ids": [
+    1623672
+  ]
+}

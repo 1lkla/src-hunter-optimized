@@ -1,0 +1,11 @@
+{
+  "weakness": "use-of-externally-controlled-format-string",
+  "report_count": 5,
+  "report_ids": [
+    1707287,
+    2819666,
+    1438393,
+    1423496,
+    311884
+  ]
+}

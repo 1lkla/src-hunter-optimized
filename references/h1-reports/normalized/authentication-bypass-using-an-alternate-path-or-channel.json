@@ -1,0 +1,18 @@
+{
+  "weakness": "authentication-bypass-using-an-alternate-path-or-channel",
+  "report_count": 12,
+  "report_ids": [
+    2762462,
+    1709881,
+    2443228,
+    1747146,
+    1685970,
+    1581240,
+    1063298,
+    824203,
+    1039325,
+    922456,
+    708303,
+    428757
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "weakness": "use-of-hard-coded-cryptographic-key",
+  "report_count": 2,
+  "report_ids": [
+    3295650,
+    531032
+  ]
+}

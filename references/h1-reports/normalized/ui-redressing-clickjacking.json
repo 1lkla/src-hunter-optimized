@@ -1,0 +1,14 @@
+{
+  "weakness": "ui-redressing-clickjacking",
+  "report_count": 8,
+  "report_ids": [
+    1574017,
+    783191,
+    947690,
+    662287,
+    643274,
+    388254,
+    234713,
+    222762
+  ]
+}

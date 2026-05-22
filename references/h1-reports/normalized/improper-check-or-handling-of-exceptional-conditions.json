@@ -1,0 +1,7 @@
+{
+  "weakness": "improper-check-or-handling-of-exceptional-conditions",
+  "report_count": 1,
+  "report_ids": [
+    1542881
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "weakness": "use-of-inherently-dangerous-function",
+  "report_count": 2,
+  "report_ids": [
+    1141623,
+    255991
+  ]
+}

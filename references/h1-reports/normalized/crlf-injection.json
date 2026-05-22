@@ -1,0 +1,11 @@
+{
+  "weakness": "crlf-injection",
+  "report_count": 5,
+  "report_ids": [
+    3479984,
+    3479203,
+    3477023,
+    1200647,
+    1168205
+  ]
+}

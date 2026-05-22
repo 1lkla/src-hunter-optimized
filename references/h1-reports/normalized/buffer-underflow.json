@@ -1,0 +1,11 @@
+{
+  "weakness": "buffer-underflow",
+  "report_count": 5,
+  "report_ids": [
+    2823554,
+    476178,
+    722327,
+    887744,
+    724217
+  ]
+}

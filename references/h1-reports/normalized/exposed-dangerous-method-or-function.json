@@ -1,0 +1,7 @@
+{
+  "weakness": "exposed-dangerous-method-or-function",
+  "report_count": 1,
+  "report_ids": [
+    783360
+  ]
+}

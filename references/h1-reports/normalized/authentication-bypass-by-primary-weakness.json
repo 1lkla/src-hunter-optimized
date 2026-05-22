@@ -1,0 +1,8 @@
+{
+  "weakness": "authentication-bypass-by-primary-weakness",
+  "report_count": 2,
+  "report_ids": [
+    3640932,
+    3319767
+  ]
+}

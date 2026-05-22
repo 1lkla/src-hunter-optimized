@@ -1,0 +1,8 @@
+{
+  "weakness": "http-response-splitting",
+  "report_count": 2,
+  "report_ids": [
+    1204695,
+    758445
+  ]
+}

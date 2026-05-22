@@ -1,0 +1,11 @@
+{
+  "weakness": "remote-file-inclusion",
+  "report_count": 5,
+  "report_ids": [
+    1719588,
+    1858574,
+    1069105,
+    660565,
+    538771
+  ]
+}

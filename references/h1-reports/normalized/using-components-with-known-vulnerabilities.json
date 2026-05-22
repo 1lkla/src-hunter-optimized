@@ -1,0 +1,7 @@
+{
+  "weakness": "using-components-with-known-vulnerabilities",
+  "report_count": 1,
+  "report_ids": [
+    2794126
+  ]
+}

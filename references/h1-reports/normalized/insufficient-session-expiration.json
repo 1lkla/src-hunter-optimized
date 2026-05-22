@@ -1,0 +1,10 @@
+{
+  "weakness": "insufficient-session-expiration",
+  "report_count": 4,
+  "report_ids": [
+    1632186,
+    774393,
+    390126,
+    216294
+  ]
+}
