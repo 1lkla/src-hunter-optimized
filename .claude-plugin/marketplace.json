@@ -1,0 +1,36 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "src-hunter-optimized",
+  "owner": {
+    "name": "1lkla",
+    "email": "",
+    "url": "https://github.com/1lkla"
+  },
+  "metadata": {
+    "description": "Optimized SRC / Bug bounty skill with semantic indexing and MCP integration",
+    "version": "2.0.0"
+  },
+  "plugins": [
+    {
+      "name": "src-hunter-optimized",
+      "source": ".",
+      "description": "Production-ready bug bounty skill with optimized data structures. Features: 2,887 semantically indexed H1 reports, 419 structured payloads, 57 converted playbooks, MCP integration for efficient querying, WAF/EDR bypass techniques, and industry-specific playbooks. Hybrid skill + MCP architecture for reduced context usage and targeted data retrieval.",
+      "version": "2.0.0",
+      "homepage": "https://github.com/1lkla/src-hunter-optimized",
+      "category": "security",
+      "tags": [
+        "security",
+        "bug-bounty",
+        "src",
+        "hackerone",
+        "pentesting",
+        "vulnerability-hunting",
+        "waf-bypass",
+        "owasp",
+        "mcp",
+        "semantic-search"
+      ],
+      "license": "MIT"
+    }
+  ]
+}
